@@ -1,0 +1,6 @@
+Image 1: 1667 s
+Image 2: 2986 s
+Image 3: 5527 sec
+Image 4: 8316 s
+Image 5: 11167 s
+Image 6: 12807 s
