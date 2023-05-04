@@ -135,6 +135,7 @@ class FlirImageExtractor:
 
         thermal_img = Image.open(thermal_img_stream)
         thermal_np = np.array(thermal_img)
+        thermal_img.close()
 
         # raw values -> temperature
         subject_distance = self.default_distance
